@@ -1,7 +1,7 @@
 {
   "name": "nodesocket",
   "version": "1.0.0",
-  "description": "CN Project by Hardik Garg and Ojas Saraswat",
+  "description": "CN Project by Harshvardhan, Akshat and Aryan",
   "main": "index.js",
   "engines": {
     "node": "16.10.0",
@@ -11,7 +11,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Hardik Garg and Ojas Saraswat",
+  "author": "Harshvardhan, Akshat and Aryan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
